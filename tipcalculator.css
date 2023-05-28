@@ -55,3 +55,10 @@ body {
   box-shadow: 0px 0px 50px rgba(145, 145, 145, 0.8);
   margin-bottom: 1rem;
 }
+
+.tc__left-side {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: #fff;
+}
