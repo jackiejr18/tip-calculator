@@ -62,3 +62,16 @@ body {
   gap: 2rem;
   background-color: #fff;
 }
+
+.align {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.align label {
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  background-color: #fff;
+  color: #929292;
+}
