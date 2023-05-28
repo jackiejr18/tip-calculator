@@ -39,3 +39,19 @@ body {
   font-weight: 600;
   color: #ff5858;
 }
+
+.tc__main h1 span {
+  font-size: 2rem;
+}
+
+.tc__container {
+  background-color: #fff;
+  padding: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  border-radius: 20px;
+  box-shadow: 0px 0px 50px rgba(145, 145, 145, 0.8);
+  margin-bottom: 1rem;
+}
