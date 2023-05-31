@@ -127,3 +127,14 @@ body {
   box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.28);
   border-radius: 20px;
 }
+
+.tc__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  outline: none;
+  gap: 3rem;
+  background-color: #f8a9a9;
+}
